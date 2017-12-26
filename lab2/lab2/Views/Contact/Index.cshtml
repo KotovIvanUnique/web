@@ -1,0 +1,37 @@
+﻿@model lab2.Message;
+
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<div class="margin">
+    <div class="container">
+        <div class="row">
+            <div class="body">
+                <h1><b>Contact</b></h1>
+                <form method="post" action="~/Contact/Send" />
+                <p>
+                    <b>E-mail of the sender:</b><br>
+                    <input asp-for="Email" type="text" size="75" /><br />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </p>
+                <p>
+                    <b>Subject:</b><br>
+                    <input asp-for="Subject" type="text" size="75" /><br />
+                    <span asp-validation-for="Subject" class="text-danger"></span>
+                </p>
+                <p>
+                    <b>Text:</b><br>
+                    <textarea asp-for="Text" cols="70" rows="10" wrap="soft"><</textarea><br />
+                    <span asp-validation-for="Text" class="text-danger"></span>
+                </p>
+                <p>
+                    <input type="submit" value="Send">
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+        <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>

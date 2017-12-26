@@ -1,0 +1,63 @@
+C:\Users\Cait\source\repos\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.deps.json
+C:\Users\Cait\source\repos\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.json
+C:\Users\Cait\source\repos\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.dev.json
+C:\Users\Cait\source\repos\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Cait\source\repos\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Cait\source\repos\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csprojResolveAssemblyReference.cache
+C:\Users\Cait\source\repos\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csproj.CoreCompileInputs.cache
+C:\Users\Cait\source\repos\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.AssemblyInfo.cs
+C:\Users\Cait\source\repos\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Cait\source\repos\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.deps.json
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.json
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.dev.json
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csprojResolveAssemblyReference.cache
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.AssemblyInfoInputs.cache
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.AssemblyInfo.cs
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Vanya\Downloads\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Cait\Downloads\Vano_report_1\Vano_report (1)\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.deps.json
+C:\Users\Cait\Downloads\Vano_report_1\Vano_report (1)\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.json
+C:\Users\Cait\Downloads\Vano_report_1\Vano_report (1)\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.dev.json
+C:\Users\Cait\Downloads\Vano_report_1\Vano_report (1)\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Cait\Downloads\Vano_report_1\Vano_report (1)\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Cait\Downloads\Vano_report_1\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csprojResolveAssemblyReference.cache
+C:\Users\Cait\Downloads\Vano_report_1\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csproj.CoreCompileInputs.cache
+C:\Users\Cait\Downloads\Vano_report_1\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.AssemblyInfo.cs
+C:\Users\Cait\Downloads\Vano_report_1\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Cait\Downloads\Vano_report_1\Vano_report (1)\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.deps.json
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.json
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.dev.json
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csprojResolveAssemblyReference.cache
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.AssemblyInfoInputs.cache
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.AssemblyInfo.cs
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Vanya\Desktop\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Cait\Downloads\Vano_report\Vano_report\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.deps.json
+C:\Users\Cait\Downloads\Vano_report\Vano_report\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.json
+C:\Users\Cait\Downloads\Vano_report\Vano_report\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.dev.json
+C:\Users\Cait\Downloads\Vano_report\Vano_report\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Cait\Downloads\Vano_report\Vano_report\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Cait\Downloads\Vano_report\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csprojResolveAssemblyReference.cache
+C:\Users\Cait\Downloads\Vano_report\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csproj.CoreCompileInputs.cache
+C:\Users\Cait\Downloads\Vano_report\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.AssemblyInfo.cs
+C:\Users\Cait\Downloads\Vano_report\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Cait\Downloads\Vano_report\Vano_report\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.deps.json
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.json
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.runtimeconfig.dev.json
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\bin\Debug\netcoreapp1.1\Vano_report.pdb
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csprojResolveAssemblyReference.cache
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.AssemblyInfoInputs.cache
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.AssemblyInfo.cs
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.dll
+C:\Users\Vanya\Desktop\web\web\Vano_report\Vano_report\obj\Debug\netcoreapp1.1\Vano_report.pdb

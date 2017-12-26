@@ -1,0 +1,36 @@
+﻿@model Vano_report.EmailMessage;
+
+@{
+    ViewData["Title"] = "Обратная связь";
+}
+
+<div class="flex">
+    <div class="item"> </div>
+    <div class="item" style="background-color: navajowhite"> </div>
+    <div id="definition" class="item" style="background-color: tan"> </div>
+</div>
+<div style="margin-left:280px">
+    <h1><b>Обратная связь</b></h1>
+    <form method="post" action="~/Home/Send" />
+    <p>
+        <b>Ваш E-mail:</b><br>
+        <input asp-for="Email" type="text" size="60" /><br />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </p>
+    <p>
+        <b>Тема сообщения:</b><br>
+        <input asp-for="Subject" type="text" size="60" /><br />
+        <span asp-validation-for="Subject" class="text-danger"></span>
+    </p>
+    <p>
+        <b>Текст сообщения:</b><br>
+        <textarea asp-for="Text" cols="61" rows="5" wrap="soft"><</textarea><br />
+        <span asp-validation-for="Text" class="text-danger"></span>
+    </p>
+    <p style="font:18px arial">
+        <input type="submit" value="Отправить">
+    </p>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
